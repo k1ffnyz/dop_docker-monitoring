@@ -69,7 +69,7 @@ docker compose up -d
 
 ---
 
-Команда генерации нагрузки (PowerShell):
+## Команда генерации нагрузки (PowerShell):
 ```bash
 1..2000 | ForEach-Object { Invoke-WebRequest http://localhost -UseBasicParsing | Out-Null }
 ```
