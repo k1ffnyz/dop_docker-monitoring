@@ -52,6 +52,7 @@ docker compose up -d
 ![Запущенные контейнеры Docker](screenshots/01_docker_ps.png)
 
 2️⃣ Интерфейс cAdvisor
+
 ![Интерфейс cAdvisor](screenshots/02_cadvisor.png)
 
 3️⃣ Prometheus — Targets (cAdvisor UP)
