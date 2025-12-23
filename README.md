@@ -100,24 +100,16 @@ docker compose up -d
 ---
 
 ### 📁 Структура репозитория
+```text
 dop_docker-monitoring/
-
 ├── README.md
-
 ├── docker-compose.yml
-
 ├── prometheus.yml
-
 └── screenshots/
-
     ├── 01_docker_ps.png
-    
     ├── 02_cadvisor.png
-    
     ├── 03_prometheus_targets.png
-    
     ├── 04_prometheus_metrics.png
-    
     ├── 05_grafana_idle.png
-    
     └── 06_grafana_load.png
+```
